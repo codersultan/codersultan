@@ -10,8 +10,8 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 
 ### 👨‍🎓 Skills & Experience:
 
-  ✅ HTML5 
-  ✅ CSS3
+  ✅ HTML5 <br>
+  ✅ CSS3 <br>
   ✅ SASS
   ✅ Bootstrap
   ✅ JavaScript
