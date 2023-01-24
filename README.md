@@ -28,6 +28,4 @@ Skills: HTML5 / CSS3 / Bootstrap / JavaScript / React / WordPress / Shopify
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/codersultan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=codersultan)  
+### Feel free to contact with me 😊
