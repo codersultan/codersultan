@@ -1,11 +1,10 @@
 ![Web Developer ](https://pbs.twimg.com/profile_banners/1510355286384541697/1674584627/600x200)
 
 
-### Hi there 👋, I'm Kalimi Sultan
+### Hi, I'm Kalimi Sultan 👋
 #### Web Developer 
 
 A professional Web Developer and WordPress Expert who works in different marketplaces with over 3 years of experience.
-
 With hand-holding support, you get 100% quality work and on-time delivery. If necessary I try to call a meeting to discuss and understand the requirements of the project and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so that you can manage your own website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
 
 Skills: HTML5 / CSS3 / Bootstrap / JavaScript / React / WordPress / Shopify 
@@ -25,8 +24,6 @@ Skills: HTML5 / CSS3 / Bootstrap / JavaScript / React / WordPress / Shopify
 [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codersultan)  
 
