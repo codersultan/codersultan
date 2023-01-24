@@ -12,14 +12,13 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 
   ✅ HTML5 <br>
   ✅ CSS3 <br>
-  ✅ SASS
-  ✅ Bootstrap
-  ✅ JavaScript
-  ✅ PHP
-  ✅ WordPress
-  ✅ Shopify
+  ✅ SASS <br>
+  ✅ Bootstrap <br>
+  ✅ JavaScript <br>
+  ✅ PHP <br>
+  ✅ WordPress <br>
+  ✅ Shopify <br>
   ✅ Photoshop
-  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan)](https://github.com/anuraghazra/github-readme-stats)
 
