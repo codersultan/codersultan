@@ -13,7 +13,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Shopify 
     ✅ HTML5/CSS3/Bootstrap 
     ✅ JavaScript 
-    ✅ PHP 
+    ✅ PHP (Basic)
     ✅ Photoshop
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan)](https://github.com/anuraghazra/github-readme-stats)
