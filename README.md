@@ -41,7 +41,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codersultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codersultan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/codersultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codersultan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codersultan" target="blank"><img align="center" src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3335373241353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d77686974652367682d6c696768742d6d6f64652d6f6e6c79" alt="codersultan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
