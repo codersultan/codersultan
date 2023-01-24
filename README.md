@@ -25,7 +25,7 @@ Skills: HTML5 / CSS3 / Bootstrap / JavaScript / React / WordPress / Shopify
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codersultan)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/codersultan)  
 
