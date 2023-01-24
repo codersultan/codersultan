@@ -23,12 +23,10 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codersultan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/codersultan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/codersultan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/d/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kalimi_sultan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/codersultan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developersultan.com/)  
 
 
-- 🔭 I’m currently working on Fiverr, Upwork and LinkedIn 
-- 🌱 I’m currently learning MERN Stack  
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with build websites 
-- 💬 Ask me about Web Development 
-- 😄 Pronouns: Love to learn code 
+### 👨‍🎓 Why Me:
+    ✅ On-time project delivery
+    ✅ Fully responsive and SEO-friendly layout
+    ✅ Support after compilation projects
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
