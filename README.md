@@ -1,4 +1,4 @@
-![Web Developer ](https://pbs.twimg.com/profile_banners/1510355286384541697/1674584627/1080x360)
+<!-- ![Web Developer ](https://pbs.twimg.com/profile_banners/1510355286384541697/1674584627/1080x360) -->
 ![Web Developer ](https://pbs.twimg.com/profile_banners/1510355286384541697/1674584627/600x200)
 
 ![Profile views](https://gpvc.arturio.dev/codersultan)  
