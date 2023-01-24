@@ -1,5 +1,6 @@
 ![Web Developer ](https://pbs.twimg.com/profile_banners/1510355286384541697/1674584627/600x200)
 
+![Profile views](https://gpvc.arturio.dev/codersultan)  
 
 ### Hi, I'm Kalimi Sultan 👋
 #### Web Developer 
@@ -30,5 +31,3 @@ Skills: HTML5 / CSS3 / Bootstrap / JavaScript / React / WordPress / Shopify
 ![GitHub metrics](https://metrics.lecoq.io/codersultan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=codersultan)  
-
-![Profile views](https://gpvc.arturio.dev/codersultan)  
