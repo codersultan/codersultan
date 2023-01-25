@@ -8,15 +8,15 @@
 A professional Web Developer and WordPress Expert who works in different marketplaces with over 3 years of experience.
 With hand-holding support, you get 100% quality work and on-time delivery. If necessary I try to call a meeting to discuss and understand the requirements of the project and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so that you can manage your own website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
 
-### 👨‍🎓 Skills & Experience:
+## 👨‍🎓 Skills & Experience:
     ✅ WordPress 
     ✅ Shopify 
     ✅ HTML5/CSS3/Bootstrap 
     ✅ JavaScript 
     ✅ PHP (Basic)
-    ✅ Photoshop
-   
-### 📞 Contact with me:
+    ✅ Photoshop  
+    
+## 📞 Contact with me:
 
 <div>   
    <a href="https://www.linkedin.com/in/codersultan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -26,7 +26,8 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
    <a href="https://www.youtube.com/channel/codersultan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
-### 👦 Why Me:
+## 👦 Why Me:
+
     ✅ On-time project delivery
     ✅ Fully responsive and SEO-friendly layout
     ✅ Support after compilation projects
