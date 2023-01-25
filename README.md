@@ -16,7 +16,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ PHP (Basic)
     ✅ Photoshop
     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact)](https://github.com/codersultan/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
 ### 📞 Contact with me:
 
@@ -35,10 +35,10 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Support after compilation projects
 
 
-https://github-profile-trophy.vercel.app/?username=codersultan&theme=flat
+<!-- https://github-profile-trophy.vercel.app/?username=codersultan&theme=flat
 [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)   -->
 
 ### Feel free to contact with me 😊
 
