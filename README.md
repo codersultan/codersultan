@@ -15,7 +15,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ JavaScript 
     ✅ PHP (Basic)
     ✅ Photoshop
-    <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->    
+   
 ### 📞 Contact with me:
 
 <div>   
