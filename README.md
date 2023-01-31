@@ -30,8 +30,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 </div>
 
 ## 📧For Business Inquiries:
-✅ ► developersultan100@gmail.com
-✅ ►WhatsApp: +8801750008535
+    ✅ ► developersultan100@gmail.com
 
 ## 👦 Why Me:
     ✅ On-time project delivery
