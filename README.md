@@ -1,6 +1,6 @@
 ![Web Developer ](https://pbs.twimg.com/profile_banners/1510355286384541697/1687891972/1080x360)
 
-![Profile views](https://gpvc.arturio.dev/codersultan)  
+![](https://komarev.com/ghpvc/?username=codersultan&color=green)  
 
 ## Hi, I'm Kalimi Sultan 👋
 #### 👨‍💻 Web Developer 
