@@ -11,7 +11,8 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ## 👨‍🎓 Skills & Experience:
     ✅ WordPress 
     ✅ Shopify 
-    ✅ HTML5/CSS3/Bootstrap 
+    ✅ HTML5/CSS3 
+    ✅ Bootstrap/Tailwind 
     ✅ JavaScript 
     ✅ PHP (Basic)
     ✅ Photoshop 
