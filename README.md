@@ -58,4 +58,4 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact)
-![Coder Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true&theme=transparent)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codersultan)](https://github.com/anuraghazra/github-readme-stats)
