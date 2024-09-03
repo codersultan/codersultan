@@ -21,7 +21,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Firebase
     ✅ PHP (Basic)
 
-### Design Tools
+### Design Tools:
     ✅ Photoshop 
     ✅ Figma
     ✅ XD
