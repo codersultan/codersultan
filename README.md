@@ -33,6 +33,11 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Video Editing
     ✅ Basic SEO
 
+### Worked At:
+    ✅ Fiverr - Top 10% Level One Seller 
+    ✅ Upwork - Rising Talent
+
+    
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
 ## 📞 Contact with me:
