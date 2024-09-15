@@ -25,6 +25,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ### Design Tools:
     ✅ Photoshop 
     ✅ Figma
+    ✅ Canva
     ✅ XD
 
 ### Soft Skills: 
@@ -48,7 +49,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 
 ## 👦 Why Me:
     ✅ On-time project delivery 
-    ✅ Fully responsive and SEO-friendly layout
+    ✅ Fully responsive layout and SEO-friendly  
     ✅ Support after compilation projects
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
