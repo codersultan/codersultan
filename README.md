@@ -9,7 +9,7 @@ Front End Developer and WordPress Expert who works in different marketplaces wit
 With hand-holding support, you get 100% quality work and on-time delivery. If necessary I call a meeting to discuss and understand the project's requirements and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so you can manage your website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
 
 ## 👨‍🎓 Skills & Experience:
-### CMS Development:
+### Web Design - CMS:
     ✅ WordPress 
     ✅ Shopify 
     ✅ Wix 
