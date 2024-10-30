@@ -32,6 +32,8 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Logo Design
     ✅ Video Editing
     ✅ Basic SEO
+    ✅ G4 Analytics
+    ✅ Google Search Console
 
 ### Worked At:
     ✅ Fiverr - Top 10% Level One Seller 
