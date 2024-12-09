@@ -12,7 +12,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ### Web Design - CMS:
     ✅ WordPress 
     ✅ Shopify 
-    ✅ Wix 
+    ✅ Webflow
     
 ### Font End Development:
     ✅ HTML5/ CSS3/ SCSS
