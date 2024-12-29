@@ -5,8 +5,8 @@
 ## Hi, I'm Kalimi Sultan 👋
 #### 👨‍💻 Web Developer 
 
-Front End Developer and WordPress Expert who has worked in different marketplaces since 2020.
-With hand-holding support, you get 100% quality work and on-time delivery. If necessary I call a meeting to discuss and understand the project's requirements and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so you can manage your website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
+Front-End Developer and WordPress Expert who has worked in different marketplaces since 2020.
+With hand-holding support, you get 100% quality work and on-time delivery. If necessary, I would like to call a meeting to discuss and understand the project's requirements and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so you can manage your website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
 
 ## 👨‍🎓 Skills & Experience:
 ### Web Design - CMS:
@@ -14,7 +14,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Shopify 
     ✅ Webflow
     
-### Font End Development:
+### Front End Development:
     ✅ HTML5/ CSS3/ SCSS
     ✅ Bootstrap/ Tailwind 
     ✅ JavaScript/ Typescript 
