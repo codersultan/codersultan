@@ -11,8 +11,8 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ## 👨‍🎓 Skills & Experience:
 ### Web Design - CMS:
     ✅ WordPress 
-    ✅ Shopify 
     ✅ Webflow
+    ✅ Headless WordPress
     
 ### Front End Development:
     ✅ HTML5/ CSS3/ SCSS
