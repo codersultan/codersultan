@@ -45,20 +45,20 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ## 📞 Contact with me:
 
 <div>   
+   <a href = "https://wa.me/01750008535"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href = "mailto:codersultan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/codersultan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.facebook.com/codersultan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/kalimi_sultan" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/codersultan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-   <a href = "https://wa.me/01750008535"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href = "mailto:codersultan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/@codersultan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
 ## 👦 Why Me:
-    ✅ On-time project delivery 
-    ✅ Fully responsive layout and SEO-friendly  
-    ✅ Support after compilation projects
-
+    ✅ Friendly and Responsible
+    ✅ Fluent Communication  
+    ✅ Leadership and Team collaborate
+    
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true) -->
