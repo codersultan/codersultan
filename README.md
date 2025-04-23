@@ -9,24 +9,18 @@ Front-End Developer and WordPress Expert who has worked in different marketplace
 With hand-holding support, you get 100% quality work and on-time delivery. If necessary, I would like to call a meeting to discuss and understand the project's requirements and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so you can manage your website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
 
 ## 👨‍🎓 Skills & Experience:
-
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
 ### Web Design - CMS:
     ✅ WordPress 
     ✅ Webflow
     ✅ Headless WordPress
-</div>
-<div style="flex: 1;">
+
 ### Front End Development:
     ✅ HTML5/ CSS3/ SCSS
     ✅ Bootstrap/ Tailwind 
-    ✅ JavaScript/ Typescript 
+    ✅ JavaScript/ TypeScript 
     ✅ React JS/ Redux / Next JS
     ✅ Firebase
     ✅ PHP (Basic)
-</div>
-</div>
 
 ### Design Tools:
     ✅ Photoshop 
