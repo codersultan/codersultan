@@ -64,7 +64,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true&theme=radical) $~~$ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact&theme=radical) 
 
-
+![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=codersultan&custom_title=Kalimi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
