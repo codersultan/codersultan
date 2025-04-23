@@ -5,8 +5,8 @@
 ## Hi, I'm Kalimi Sultan 👋
 #### 👨‍💻 Web Developer 
 
-Front-End Developer and WordPress Expert who has worked in different marketplaces since 2020.
-With hand-holding support, you get 100% quality work and on-time delivery. If necessary, I would like to call a meeting to discuss and understand the project's requirements and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so you can manage your website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
+I'm a Front-End Developer, WordPress & Webflow Expert who has worked in different marketplaces since 2020. I've collaborated with over 100 clients to build their business websites, e-commerce stores, or web apps.
+Passionate to learn & share knowladge.
 
 ## 👨‍🎓 Skills & Experience:
 ### Front End Development:
@@ -24,21 +24,10 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ![Vite](https://img.shields.io/badge/vite-a455ff.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-    
-    ✅ HTML5/ CSS3/ SCSS
-    ✅ Bootstrap/ Tailwind 
-    ✅ JavaScript/ TypeScript 
-    ✅ React JS/ Redux / Next JS
-    ✅ Firebase
-    ✅ PHP (Basic)
 
 ### Web Design - CMS:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
-![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
-    ✅ WordPress 
-    ✅ Webflow
-    ✅ Headless WordPress
 
 ### Design Tools:
     ✅ Photoshop 
