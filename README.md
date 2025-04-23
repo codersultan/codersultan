@@ -24,6 +24,7 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ![Vite](https://img.shields.io/badge/vite-a455ff.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+    
     ✅ HTML5/ CSS3/ SCSS
     ✅ Bootstrap/ Tailwind 
     ✅ JavaScript/ TypeScript 
