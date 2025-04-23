@@ -62,8 +62,8 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ### Feel free to contact me 😊
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact&theme=transparent) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true&theme=transparent)
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)
+
