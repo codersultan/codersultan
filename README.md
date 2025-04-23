@@ -24,11 +24,20 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 ![Vite](https://img.shields.io/badge/vite-a455ff.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+    ✅ HTML5/ CSS3/ SCSS
+    ✅ Bootstrap/ Tailwind 
+    ✅ JavaScript/ TypeScript 
+    ✅ React JS/ Redux / Next JS
+    ✅ Firebase
+    ✅ PHP (Basic)
 
 ### Web Design - CMS:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+    ✅ WordPress 
+    ✅ Webflow
+    ✅ Headless WordPress
 
 ### Design Tools:
     ✅ Photoshop 
