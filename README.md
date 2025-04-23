@@ -9,11 +9,6 @@ Front-End Developer and WordPress Expert who has worked in different marketplace
 With hand-holding support, you get 100% quality work and on-time delivery. If necessary, I would like to call a meeting to discuss and understand the project's requirements and teach you how to manage the website by yourself. After delivering the website I provide a self-made video tutorial and guide so you can manage your website. I will create an eCommerce website for a business. Also corporate, blog, portfolio, landing, LMS, Dropshipping, Multi-Vendor, Ebook, Travel, or many more types of websites.
 
 ## 👨‍🎓 Skills & Experience:
-### Web Design - CMS:
-    ✅ WordPress 
-    ✅ Webflow
-    ✅ Headless WordPress
-
 ### Front End Development:
     ✅ HTML5/ CSS3/ SCSS
     ✅ Bootstrap/ Tailwind 
@@ -21,6 +16,11 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ React JS/ Redux / Next JS
     ✅ Firebase
     ✅ PHP (Basic)
+
+### Web Design - CMS:
+    ✅ WordPress 
+    ✅ Webflow
+    ✅ Headless WordPress
 
 ### Design Tools:
     ✅ Photoshop 
@@ -58,12 +58,12 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
     ✅ Friendly and Responsible
     ✅ Fluent Communication  
     ✅ Leadership and Team collaborate
-    
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true) -->
 
 ### Feel free to contact me 😊
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersultan&layout=compact)
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=codersultan)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codersultan&show_icons=true)
