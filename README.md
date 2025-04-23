@@ -10,6 +10,11 @@ With hand-holding support, you get 100% quality work and on-time delivery. If ne
 
 ## 👨‍🎓 Skills & Experience:
 ### Front End Development:
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
     ✅ HTML5/ CSS3/ SCSS
     ✅ Bootstrap/ Tailwind 
     ✅ JavaScript/ TypeScript 
