@@ -5,11 +5,12 @@
 ## Hi, I'm Kalimi Sultan 👋
 #### 👨‍💻 Web Developer 
 
-I'm a Frontend Developer, WordPress & Webflow Expert who has worked in different marketplaces since 2022. I've collaborated with more than 100+ clients to build their business websites, e-commerce stores, or web apps.
+I'm a Frontend Developer, Headless WordPress & Webflow Expert who has worked in different marketplaces since 2022. I've collaborated with more than 100+ clients to build their business websites, e-commerce stores, or web applications. Especialising in JavaScript, TypeScript, React, Next, Redux, Rest API, Firebase, and GitHub CI/CD pipelines. I'm a MERN stack learner.
+
 I love to learn & share knowladge on YouTube.
 
 ## 👨‍🎓 Skills & Experience:
-### Front End Development:
+### Frontend Development:
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=151b23&logo=javascript&logoColor=F0DB4F)
 ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=151b23&logo=typescript&logoColor=007acc)
 ![React JS](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -29,16 +30,10 @@ I love to learn & share knowladge on YouTube.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
 
-### Design Tools:
-    ✅ Photoshop 
-    ✅ Figma
-    ✅ Canva
-    ✅ XD
-
-### Soft Skills: 
+### Tools:
+    ✅ PSD | Figma | XD  
+    ✅ Trello | Clickup | Jira | GitHub Project Manager
     ✅ Logo Design
-    ✅ Video Editing
-    ✅ Basic SEO
     ✅ G4 Analytics
     ✅ Google Search Console
 
