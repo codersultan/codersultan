@@ -5,7 +5,7 @@
 ## Hi, I'm Kalimi Sultan 👋
 #### 👨‍💻 Web Developer 
 
-I'm a Front-End Developer, WordPress & Webflow Expert who has worked in different marketplaces since 2022. I've collaborated with more than 100+ clients to build their business websites, e-commerce stores, or web apps.
+I'm a Frontend Developer, WordPress & Webflow Expert who has worked in different marketplaces since 2022. I've collaborated with more than 100+ clients to build their business websites, e-commerce stores, or web apps.
 I love to learn & share knowladge on YouTube.
 
 ## 👨‍🎓 Skills & Experience:
