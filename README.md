@@ -5,7 +5,7 @@
 ## Hi, I'm Kalimi Sultan 👋
 #### 👨‍💻 Web Developer 
 
-I'm a Frontend Developer, Headless WordPress & Webflow Expert who has worked in different marketplaces since 2022. I've collaborated with more than 100+ clients to build their business websites, e-commerce stores, or web applications. Especialising in JavaScript, TypeScript, React, Next, Redux, Rest API, Firebase, and GitHub CI/CD pipelines. I'm a MERN stack learner.
+I'm a Frontend Developer, Headless WordPress & Webflow Expert who has worked in different marketplaces since 2022. I've collaborated with more than 100+ clients to build their business websites, e-commerce stores, or web applications. Especialising in JavaScript, TypeScript, React, Next, Redux, Rest API, Firebase, and GitHub CI/CD pipelines. I'm a MERN stack learner. I developed clean, highly scalable, and fault-tolerant web applications.
 
 I love to learn & share knowladge on YouTube.
 
